@@ -33,6 +33,7 @@ Clone this repository and navigate to the directory:
 ```bash
 git clone https://github.com/yourusername/sha256-cryptotool.git
 cd sha256-cryptotool
-chmod +x cryptotool.py
-python3 cryptotool.py
+chmod +x main.py
+chmod +x sha256_tool.py
+python3 main.py
 
